@@ -9,3 +9,4 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
+/slk.prob -text svneol=unset#unset
