@@ -1,0 +1,74 @@
+<dictionary>
+  <alphabet></alphabet>
+  <sdefs>
+    <sdef n="n"        c="Noun"/>
+    <sdef n="adv"      c="Adverb"/>
+    <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+    <sdef n="cnjsub"   c="Subordinating conjunction"/>
+    <sdef n="pr"       c="Preposition"/>
+
+    <sdef n="sg"       c="Singular"/>
+    <sdef n="pl"       c="Plural"/>
+
+    <sdef n="sent"     c="End-of-sentence marker"/>
+  </sdefs>
+  <pardefs>
+    <!-- SECTION: Punctuation -->
+
+    <!-- SECTION: Miscellaneous -->
+
+    <!-- SECTION: Conjunctions -->
+
+    <!-- SECTION: Prepositions -->
+
+    <!-- SECTION: Pronouns -->
+
+    <!-- SECTION: Determiners -->
+
+    <!-- SECTION: Numerals -->
+
+    <!-- SECTION: Nouns -->
+
+    <!-- SECTION: Proper nouns -->
+
+    <!-- SECTION: Adjectives -->
+
+    <!-- SECTION: Adverbs -->
+
+    <!-- SECTION: Verbs -->
+
+    <!-- SECTION: Interjections -->
+
+    <!-- SECTION: Abbreviations -->
+
+
+  </pardefs>
+  <section id="main" type="standard">
+
+    <!-- SECTION: Miscellaneous -->
+
+    <!-- SECTION: Conjunctions -->
+
+    <!-- SECTION: Prepositions -->
+
+    <!-- SECTION: Pronouns -->
+
+    <!-- SECTION: Determiners -->
+
+    <!-- SECTION: Numerals -->
+
+    <!-- SECTION: Nouns -->
+
+    <!-- SECTION: Proper nouns -->
+
+    <!-- SECTION: Adjectives -->
+
+    <!-- SECTION: Adverbs -->
+
+    <!-- SECTION: Verbs -->
+
+    <!-- SECTION: Interjections -->
+
+    <!-- SECTION: Abbreviations -->
+  </section>
+</dictionary>
