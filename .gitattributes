@@ -2,7 +2,6 @@
 /AUTHORS -text
 /ChangeLog -text
 /Makefile.am -text
-/Makefile.in -text
 /NEWS -text
 /README -text
 /apertium-slk.pc.in -text
