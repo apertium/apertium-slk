@@ -8,5 +8,6 @@
 /apertium-slk.slk.dix -text
 /autogen.sh -text
 /configure.ac -text
+dev/slk.freq.categorised.txt -text
 /modes.xml -text
 /slk.prob -text svneol=unset#unset
