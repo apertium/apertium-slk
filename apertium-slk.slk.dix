@@ -6933,13 +6933,13 @@
       
     <pardef n="/v__pr">
       <e r="LR"><p><l>v</l><r>v<s n="pr"/></r></p></e>
-      <e r="LR"><p><l>ve</l><r>v<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>vo</l><r>v<s n="pr"/></r></p></e>
       <e r="RL"><p><l><a/>v</l><r>v<s n="pr"/></r></p></e>
     </pardef>
       
     <pardef n="/z__pr">
       <e r="LR"><p><l>z</l><r>z<s n="pr"/></r></p></e>
-      <e r="LR"><p><l>ze</l><r>z<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>zo</l><r>z<s n="pr"/></r></p></e>
       <e r="RL"><p><l><a/>z</l><r>z<s n="pr"/></r></p></e>
     </pardef>
       
