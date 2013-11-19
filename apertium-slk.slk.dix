@@ -130,10 +130,10 @@
      
     <pardef n="aby__cnjsub">
       <e><p><l></l><r><s n="cnjsub"/></r></p></e>
-      <e><p><l>ch</l><r><s n="cnjsub"/><j/>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>s</l><r><s n="cnjsub"/><j/>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>chom</l><r><s n="cnjsub"/><j/>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>ste</l><r><s n="cnjsub"/><j/>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ch</l><r><s n="cnjsub"/><j/>byť<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>s</l><r><s n="cnjsub"/><j/>byť<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>chom</l><r><s n="cnjsub"/><j/>byť<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ste</l><r><s n="cnjsub"/><j/>byť<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
  
        
@@ -5837,7 +5837,8 @@
     </pardef>
      
     <pardef n="BASE__udrž"> 
-    <!-- fmorph i1 --><e><p><l></l><r><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+    <!-- fmorph i1 -->
+      <e><p><l></l><r><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l></l><r><s n="imp"/><s n="emph"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l>me</l><r><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>mež</l><r><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r></p></e>
@@ -5969,23 +5970,24 @@
       <e><p><l></l><r><s n="pres"/></r></p><par n="BASE__udržím"/></e>
     </pardef>
        
-    <pardef n="/být__vbser">
-      <e><p><l>být</l><r>být<s n="vbser"/><s n="inf"/></r></p></e>
-      <e><p><l>jsem</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>jseš</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>jsme</l><r>být<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>jste</l><r>být<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>jsou</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e><p><l>budu</l><r>být<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>budeš</l><r>být<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>bude</l><r>být<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>budeme</l><r>být<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>budete</l><r>být<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>budou</l><r>být<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e><p><l>byl</l><r>být<s n="vbser"/><s n="past"/></r></p><par n="BASE__četl"/></e>
-      <e><p><l>jsouc</l><r>být<s n="vbser"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
-      <e><p><l>buď</l><r>být<s n="vbser"/></r></p><par n="BASE__udrž"/></e>
-      <e><p><l>js</l><r>být<s n="vbser"/></r></p><par n="BASE__jsa"/></e>
+    <pardef n="/byť__vbser">
+      <e><p><l>byť</l><r>byť<s n="vbser"/><s n="inf"/></r></p></e>
+      <e><p><l>som</l><r>byť<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>si</l><r>byť<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <!-- p3 je/neni -->
+      <e><p><l>sme</l><r>byť<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ste</l><r>byť<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>sú</l><r>byť<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>budem</l><r>byť<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>budeš</l><r>byť<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>bude</l><r>byť<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>budeme</l><r>byť<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>budete</l><r>byť<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>budú</l><r>byť<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>byl</l><r>byť<s n="vbser"/><s n="past"/></r></p><par n="BASE__četl"/></e>
+      <e><p><l>jsouc</l><r>byť<s n="vbser"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
+      <e><p><l>buď</l><r>byť<s n="vbser"/></r></p><par n="BASE__udrž"/></e>
+      <e><p><l>js</l><r>byť<s n="vbser"/></r></p><par n="BASE__jsa"/></e>
     </pardef>
      
     <pardef n="m/ít__vbhaver">
@@ -17153,6 +17155,9 @@
     <e lm="žulový"><par n="nej__adv"/><i>žulov</i><par n="nov/ý__adj"/></e>
      
     <!-- SECTION: Verbs -->
+
+    <e lm="byť"><par n="v_neg"/><i></i><par n="/byť__vbser"/></e>
+
     <e lm="lze"><par n="v_neg"/><i>lze</i><par n="třeba__vaux"/></e>
     <e lm="moci"><par n="v_neg"/><i>m</i><par n="m/oci__vaux"/></e>
     <e lm="možna"><par n="v_neg"/><i>možna</i><par n="třeba__vaux"/></e>
@@ -17706,9 +17711,10 @@
     <!-- Pre-adverbs -->     
     <!-- ******************************           group(s) with only one element       ****************************** --><e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
       
-    <!-- Verbs --><e lm="být"><par n="v_neg"/><i></i><par n="/být__vbser"/></e>
-      <e><p><l>je</l><r>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>není</l><r>ne<s n="adv"/><j/>být<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+    <!-- SECTION: Verbs -->
+    <e lm="byť"><par n="v_neg"/><i></i><par n="/byť__vbser"/></e>
+    <e><p><l>je</l><r>byť<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e><p><l>není</l><r>ne<s n="adv"/><j/>byť<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="mít"><par n="v_neg"/><i>m</i><par n="m/ít__vbhaver"/></e>
     <e lm="přijít"><par n="v_neg"/><i>při</i><par n="do/jít__vblex"/></e>
     <e lm="počkat"><par n="v_neg"/><i>počk</i><par n="uvít/at__vblex"/></e>
