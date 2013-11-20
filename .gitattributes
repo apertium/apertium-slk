@@ -10,5 +10,6 @@
 /configure.ac -text
 dev/codes.txt -text
 dev/slk.freq.categorised.txt -text
+dev/wiktionary/adj.speling -text
 /modes.xml -text
 /slk.prob -text svneol=unset#unset
