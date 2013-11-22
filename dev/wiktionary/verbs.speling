@@ -13,7 +13,9 @@ bojovať; bojovával; pperf.m.sg; vblex
 bojovať; bojovávala; pperf.f.sg; vblex
 bojovať; bojovávalo; pperf.nt.sg; vblex
 bojovať; bojovávali; pperf.mfn.pl; vblex
-bojovať; bojujme; imp.p2.sg; vblex
+bojovať; bojujme; imp.p1.pl; vblex
+bojovať; bojuj; imp.p2.sg; vblex
+bojovať; bojujte; imp.p2.pl; vblex
 bombardovať; bombardovať; inf; vblex
 bombardovať; bombardujem; pres.p1.sg; vblex
 bombardovať; bombardujeme; pres.p1.pl; vblex
@@ -29,7 +31,9 @@ bombardovať; bombardovával; pperf.m.sg; vblex
 bombardovať; bombardovávala; pperf.f.sg; vblex
 bombardovať; bombardovávalo; pperf.nt.sg; vblex
 bombardovať; bombardovávali; pperf.mfn.pl; vblex
-bombardovať; bombardujme; imp.p2.sg; vblex
+bombardovať; bombardujme; imp.p1.pl; vblex
+bombardovať; bombarduj; imp.p2.sg; vblex
+bombardovať; bombardujte; imp.p2.pl; vblex
 byť; byť; inf; vblex
 byť; som; pres.p1.sg; vblex
 byť; sme; pres.p1.pl; vblex
@@ -45,7 +49,9 @@ byť; býval; pperf.m.sg; vblex
 byť; bývala; pperf.f.sg; vblex
 byť; bývalo; pperf.nt.sg; vblex
 byť; bývali; pperf.mfn.pl; vblex
-byť; buďme; imp.p2.sg; vblex
+byť; buďme; imp.p1.pl; vblex
+byť; buď; imp.p2.sg; vblex
+byť; buďte; imp.p2.pl; vblex
 cestovať; cestovať; inf; vblex
 cestovať; cestujem; pres.p1.sg; vblex
 cestovať; cestujeme; pres.p1.pl; vblex
@@ -61,7 +67,9 @@ cestovať; cestovával; pperf.m.sg; vblex
 cestovať; cestovávala; pperf.f.sg; vblex
 cestovať; cestovávalo; pperf.nt.sg; vblex
 cestovať; cestovávali; pperf.mfn.pl; vblex
-cestovať; cestujme; imp.p2.sg; vblex
+cestovať; cestujme; imp.p1.pl; vblex
+cestovať; cestuj; imp.p2.sg; vblex
+cestovať; cestujte; imp.p2.pl; vblex
 darovať; darovať; inf; vblex
 darovať; darujem; pres.p1.sg; vblex
 darovať; darujeme; pres.p1.pl; vblex
@@ -77,7 +85,9 @@ darovať; darovával; pperf.m.sg; vblex
 darovať; darovávala; pperf.f.sg; vblex
 darovať; darovávalo; pperf.nt.sg; vblex
 darovať; darovávali; pperf.mfn.pl; vblex
-darovať; darujme; imp.p2.sg; vblex
+darovať; darujme; imp.p1.pl; vblex
+darovať; daruj; imp.p2.sg; vblex
+darovať; darujte; imp.p2.pl; vblex
 mať; mať; inf; vblex
 mať; mám; pres.p1.sg; vblex
 mať; máme; pres.p1.pl; vblex
@@ -93,7 +103,9 @@ mať; mával; pperf.m.sg; vblex
 mať; mávala; pperf.f.sg; vblex
 mať; mávalo; pperf.nt.sg; vblex
 mať; mávali; pperf.mfn.pl; vblex
-mať; majme; imp.p2.sg; vblex
+mať; majme; imp.p1.pl; vblex
+mať; maj; imp.p2.sg; vblex
+mať; majte; imp.p2.pl; vblex
 pochodovať; pochodovať; inf; vblex
 pochodovať; pochodujem; pres.p1.sg; vblex
 pochodovať; pochodujeme; pres.p1.pl; vblex
@@ -109,7 +121,9 @@ pochodovať; pochodovával; pperf.m.sg; vblex
 pochodovať; pochodovávala; pperf.f.sg; vblex
 pochodovať; pochodovávalo; pperf.nt.sg; vblex
 pochodovať; pochodovávali; pperf.mfn.pl; vblex
-pochodovať; pochodujme; imp.p2.sg; vblex
+pochodovať; pochodujme; imp.p1.pl; vblex
+pochodovať; pochoduj; imp.p2.sg; vblex
+pochodovať; pochodujte; imp.p2.pl; vblex
 robiť; robiť; inf; vblex
 robiť; robím; pres.p1.sg; vblex
 robiť; robíme; pres.p1.pl; vblex
@@ -125,7 +139,9 @@ robiť; robieval; pperf.m.sg; vblex
 robiť; robievala; pperf.f.sg; vblex
 robiť; robievalo; pperf.nt.sg; vblex
 robiť; robievali; pperf.mfn.pl; vblex
-robiť; robme; imp.p2.sg; vblex
+robiť; robme; imp.p1.pl; vblex
+robiť; rob; imp.p2.sg; vblex
+robiť; robte; imp.p2.pl; vblex
 spať; spať; inf; vblex
 spať; spím; pres.p1.sg; vblex
 spať; spíme; pres.p1.pl; vblex
@@ -158,7 +174,9 @@ zaspať; zaspať; inf; vblex
 ísť; chodievala; pperf.f.sg; vblex
 ísť; chodievalo; pperf.nt.sg; vblex
 ísť; chodievali; pperf.mfn.pl; vblex
-ísť; poďme; imp.p2.sg; vblex
+ísť; poďme; imp.p1.pl; vblex
+ísť; poď; imp.p2.sg; vblex
+ísť; poďte; imp.p2.pl; vblex
 ďakovať; ďakovať; inf; vblex
 ďakovať; ďakujem; pres.p1.sg; vblex
 ďakovať; ďakujeme; pres.p1.pl; vblex
@@ -174,4 +192,6 @@ zaspať; zaspať; inf; vblex
 ďakovať; ďakovávala; pperf.f.sg; vblex
 ďakovať; ďakovávalo; pperf.nt.sg; vblex
 ďakovať; ďakovávali; pperf.mfn.pl; vblex
-ďakovať; ďakujme; imp.p2.sg; vblex
+ďakovať; ďakujme; imp.p1.pl; vblex
+ďakovať; ďakuj; imp.p2.sg; vblex
+ďakovať; ďakujte; imp.p2.pl; vblex
