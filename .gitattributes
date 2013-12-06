@@ -12,6 +12,7 @@ dev/codes.txt -text
 dev/slk.freq.categorised.txt -text
 dev/slk.freq.lemmatised.txt -text
 dev/wiktionary/adj.speling -text
+dev/wiktionary/nouns.speling -text
 dev/wiktionary/verbs.speling -text
 /modes.xml -text
 /slk.prob -text svneol=unset#unset
