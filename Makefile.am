@@ -49,15 +49,15 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix \
 ## Installation stuff
 ###############################################################################
 #
-#   apertium_slk_libdir: This is where the compiled binaries go
+#   apertium_slk_dir: This is where the compiled binaries go
 #   apertium_slk_srcdir: This is where the source files go
 
-apertium_slkdir=$(prefix)/lib/apertium/$(BASENAME)/
+apertium_slkdir=$(prefix)/share/apertium/$(BASENAME)/
 apertium_slk_srcdir=$(prefix)/share/apertium/$(BASENAME)/
 
 apertium_slk_DATA=$(TARGETS_COMMON)
 
-pkgconfigdir = $(libdir)/pkgconfig
+pkgconfigdir = $(prefix)/share/pkgconfig
 pkgconfig_DATA = $(BASENAME).pc
 
 # Modes are not installed since they're all just "debug modes". All
