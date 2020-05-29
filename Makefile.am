@@ -2,8 +2,6 @@
 ## Makefile for apertium-slk
 ###############################################################################
 
-RELEASE=0.1
-VERSION=0.1.0
 LANG1=slk
 BASENAME=apertium-$(LANG1)
 
@@ -12,6 +10,8 @@ TARGETS_COMMON = $(LANG1).automorf.bin $(LANG1).autogen.bin \
 	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz
 
 #        $(LANG1).rlx.bin
+
+@ap_include@
 
 ###############################################################################
 ## Slovak transducer
@@ -71,7 +71,7 @@ noinst_DATA=modes/$(LANG1)-morph.mode
 install-data-local: install-modes
 	test -d $(DESTDIR)$(apertium_slk_srcdir) || mkdir -p $(DESTDIR)$(apertium_slk_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).dix $(DESTDIR)$(apertium_slk_srcdir)
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_slk_srcdir)
+#	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_slk_srcdir)
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
