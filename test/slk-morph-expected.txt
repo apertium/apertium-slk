@@ -1,0 +1,26 @@
+[Muuxq8wcYBzr#0] ^(/(<lpar>$
+[/Muuxq8wcYBzr]
+[OXPgIukyIPkh#0] ^-/-<guio>$
+[/OXPgIukyIPkh]
+[P_bAVyO7Bp0Z#0] ^ref/ref<ij>$
+[/P_bAVyO7Bp0Z]
+[RcqEVAly0MGc#0] ^“/“<rquot>$
+[/RcqEVAly0MGc]
+[TsLFqEGBw_PH#0] ^bruceoai/*bruceoai$
+[/TsLFqEGBw_PH]
+[WKbWgBrnceYy#0] ^math/math<ij>$
+[/WKbWgBrnceYy]
+[eVwQjxcS7OzB#0] ^Hortsf/*Hortsf$
+[/eVwQjxcS7OzB]
+[glTDKakoUPbV#0] ^k/k<pr>/k<n><nt><sp><indecl>$
+[/glTDKakoUPbV]
+[iFA2oNo9_zw-#0] ^br/br<ij>$
+[/iFA2oNo9_zw-]
+[knGf4M-M1RWS#0] ^book/book<ij>$
+[/knGf4M-M1RWS]
+[tJxfUuaQyX2g#0] ^123%/123%<num><percent>$
+[/tJxfUuaQyX2g]
+[ul7FHQekrA6V#0] ^)/)<rpar>$
+[/ul7FHQekrA6V]
+[vjhdRdyve2SE#0] ^cite/cite<ij>$
+[/vjhdRdyve2SE]
